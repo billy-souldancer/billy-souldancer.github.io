@@ -12,12 +12,12 @@ type: page
 
 本网站框架来自 [神仙](https://github.com/Gaohaoyang)
 
-本网站90%源码来自 [神仙](https://github.com/2385509959/2385509959.github.io)
+本网站技术支持：[xbh](https://github.com/ex-asbable/ex-asbable.github.io)
 
 ## 联系我
 
-* GitHub：[ex-asbable](https://github.com/ex-asbable)
-* email：3600798231@qq.com
+* GitHub：[darkwalker](https://www.luogu.com.cn/user/670980)
+* email：3244571659@qq.com
 
 ## Tips
-* 20220322：网站投入使用（已经鸽了9个月了）
+* 20220326：网站投入使用
